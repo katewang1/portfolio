@@ -191,6 +191,7 @@ section {
     justify-content: center;
     gap: 5rem;
     height: 80vh;
+    position: relative;
 }
 
 .section_pic-container {
@@ -277,7 +278,9 @@ section {
 }
 
 /* PROJECTS */
-
+#projects {
+    position: relative;
+}
 
 /* ABOUT SECTION */
 
@@ -327,5 +330,4 @@ section {
     height: 80%;   
 }
 
-/* MODIFY PROFILE PIC */
-/* 1:33:59 */
+/* 1:38:36 */
